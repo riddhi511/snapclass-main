@@ -19,7 +19,7 @@ def style_background_dashboard():
     st.markdown(""" 
         <style>
             .stApp {
-                background: #9757b3 !important;
+                background: #d9b5eb !important;
             }
         </style>
         """, unsafe_allow_html=True)
