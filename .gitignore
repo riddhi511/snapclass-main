@@ -1,4 +1,6 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
+.streamlit/
+
 .env
 .vscode
 
@@ -8,10 +10,6 @@ _pycache__/
 
 venv/
 
-.streamlit/
-
 dist/
 .claude/
 .agents/
-
-"@ | Out-File -FilePath .gitignore -Encoding utf8
