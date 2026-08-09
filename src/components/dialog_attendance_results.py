@@ -4,7 +4,6 @@ from src.database.config import supabase
 from PIL import Image
 import time
 from src.database.db import create_attendance
-from src.components.dialog_voice_attendance import show_attendance_results
 
 def show_attendance_result(df, logs):
     st.write('Please review attendance before confirming.')
@@ -32,7 +31,7 @@ def show_attendance_result(df, logs):
 
 @st.dialog("Attendance Reports")
 def attendance_result_dialog(df,logs):
-     show_attendance_results(df,logs)
+    show_attendance_result(df,logs)
 
     
                     
