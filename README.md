@@ -7,6 +7,12 @@ SnapClass is a full-stack attendance management platform that replaces manual ro
 **Landing page:** https://snapclass-landingpage-psi.vercel.app
 #
 
+## Demo
+ 
+[![SnapClass Demo](https://img.youtube.com/vi/9w9d6rZAQh8/maxresdefault.jpg)](https://www.youtube.com/watch?v=9w9d6rZAQh8)
+ 
+*Click to watch the full walkthrough (~5 min)*
+
 ## Features
 
 **For Teachers**
