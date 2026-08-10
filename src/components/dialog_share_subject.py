@@ -8,7 +8,7 @@ def share_subject_dialog(subject_name, subject_code):
     if os.environ.get("STREAMLIT_RUNTIME") or "STREAMLIT_SHARING_MODE" in os.environ or os.environ.get("HOSTNAME", "").startswith("streamlit"):
         app_domain = "https://snapclass-main.streamlit.app"
     else:
-        app_domain = "http://localhost:8501"
+        app_domain = "https://snapclass-407929015471.us-central1.run.app"
     join_url = f"{app_domain}/?join_code={subject_code}"
 
     st.header("Scan to Join")
