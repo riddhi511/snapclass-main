@@ -2,6 +2,7 @@ import streamlit as st
 from src.database.db import create_subject
 import segno
 import io
+import os
 
 @st.dialog("Share Class Link")
 def share_subject_dialog(subject_name, subject_code):
