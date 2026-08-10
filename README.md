@@ -1,4 +1,4 @@
-# SnapClass — AI-Powered Attendance System
+# SnapClass - AI-Powered Attendance System
 
 SnapClass is a full-stack attendance management platform that replaces manual roll-call with AI-driven face and voice recognition. Teachers can take attendance for an entire classroom from a single photo or a short audio recording, while students enroll in courses instantly via a shareable link or QR code.
 
